@@ -1,0 +1,46 @@
+.box{
+    height: 100vh;
+    margin: 0;
+}
+body{
+    margin: 0;
+    height: 100%;
+    background-image: url(../img4.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+
+}
+.inputData{
+    background-color:lightskyblue;
+    background-image: url(../imgsun.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 500px;
+    width: 400px;
+    margin-top: 25px;
+    margin: auto;
+    padding: 50px;
+}
+.inputFeild
+{
+margin-top: 2%;
+margin-left: 20%;
+border-radius: 10px;
+border:0,0,0,10px;
+height: 30px;
+width: 200px;
+color: white;
+border:1px solid black;
+background-color: black;
+}
+.info{
+    margin: auto;
+    margin-top: 20%;
+    text-align: center;
+}
+.location{
+    color:darkcyan;
+    text-align: center;
+}
